@@ -1,15 +1,13 @@
 
 
 #footer  {
-    position: relative;
-    
+ position: relative;   
  height:70px;
  clear:both;
  margin-top:-150px;
  width: 1000px;
- 
-border-bottom: solid 1px  ; color: #e5e5e5;
-margin-left: px;
+ border-bottom: solid 1px  ; color: #e5e5e5;
+
 } 
 .navi ul li a { 
 width:200px;
@@ -19,7 +17,7 @@ text-decoration: none;
 color: black;
 
     }
-.social-media-icons ul li{  
+.social-media-icons ul li {  
      float: right;
     position: relative;
     display:inline;
@@ -39,4 +37,3 @@ color: black;
 }
 ul{ list-style: none;
  }
-  
